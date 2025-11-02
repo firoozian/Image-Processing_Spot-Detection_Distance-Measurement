@@ -49,5 +49,5 @@ contains the final annotated image with all drawn measurements.
 
 ### 🧠 Author
 Sina Firoozian 
-Microscopy analysis tool using OpenCV and Python 🧪
+Sina.firuzian@gmail.com
 
