@@ -17,20 +17,13 @@ pip install opencv-python numpy matplotlib
 ```
 
 ### 📁 Usage
-1. Place your grayscale image in the same directory as the script.  
-2. Update the script with your image path:
-   ```python
-   image = cv2.imread('your_image_name.jpg', cv2.IMREAD_GRAYSCALE)
-   ```
-3. Run the script:
-   ```bash
-   python main.py
-   ```
-4. A window will open:
+ Place your grayscale image in the same directory as the script.  
+
+ A window will open:
    - **Left-click** on two detected points → distance will be displayed on the side box.  
    - Continue selecting new pairs to measure more distances.  
-5. Press any key to exit.  
-6. The annotated image will be saved as `final_image.jpg`.
+ Press any key to exit.  
+ The annotated image will be saved as `final_imag.jpg`.
 
 ### 📏 Notes
 - All distances are calculated **in pixels by default**.  
