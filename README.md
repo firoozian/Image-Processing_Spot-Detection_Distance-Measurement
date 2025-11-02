@@ -10,12 +10,6 @@ This project allows users to **detect bright points** in grayscale microscopy im
 - Displays all distances on a **white side panel** for easy reading  
 - Saves the final annotated image automatically  
 
-### ⚙️ Requirements
-Make sure you have the following installed:
-```bash
-pip install opencv-python numpy matplotlib
-```
-
 ### 📁 Usage
  Place your grayscale image in the same directory as the script.  
 
